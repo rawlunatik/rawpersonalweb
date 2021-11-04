@@ -56,7 +56,13 @@ body {
 
 .pix {
   display: inline-block;
+  width: 950px;
 }
+
+.poster {
+  width: 950px
+}
+
 h1 {
   margin-top: 0;
   margin-bottom: 0;
